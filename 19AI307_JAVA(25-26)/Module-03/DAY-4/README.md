@@ -23,8 +23,8 @@ StrictJudge: WIN if diff ≥ 10, DRAW if < 10
  ```
 /*
 Program to implement a Interface using Java
-Developed by: SHALINI K
-RegisterNumber:21222240095 
+Developed by : NIRAUNJANA GAYATHRI G R
+RegisterNumber : 212222230096
 */
 ```
 
