@@ -17,8 +17,8 @@ To demonstrate stream chaining in Java by combining `InputStreamReader` and `Buf
   ```
 /*
 Program to implement a input stream reader using Java
-Developed by: SHALINI K
-RegisterNumber:  212222240095
+Developed by : NIRAUNJANA GAYATHRI G R
+RegisterNumber : 212222230096
 */
 ```
 
