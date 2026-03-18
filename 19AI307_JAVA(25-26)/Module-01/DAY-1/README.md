@@ -27,8 +27,8 @@ To write a Java program that demonstrates the use of variables, data types, oper
  ```
 /*
 Program to implement a Datatypes using Java
-Developed by: NIRAUNJANA GAYATHRI G R
-RegisterNumber:21222230096
+Developed by : NIRAUNJANA GAYATHRI G R
+RegisterNumber : 212222230096
 */
 ```
 
